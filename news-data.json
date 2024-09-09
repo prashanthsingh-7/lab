@@ -1,0 +1,68 @@
+[
+    {
+        "id": "bbc-news",
+        "name": "BBC News",
+        "author": "Prashanth",
+        "title": "Prashanth Appointed as CEO of Apple",
+        "description": "Details about another important event happening around the world.",
+        "url": "https://www.bbc.com/news/world/2024/important-event",
+        "urlToImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5r0_FrSjm2OgttQLwh_CnVCnzbJ7dLv6oA&s",
+        "publishedAt": "2024-09-08T10:20:00Z",
+        "content": "This is the full article content for the important event happening globally."
+    },
+    {
+        "id": "cnn",
+        "name": "CNN",
+        "author": "John Doe",
+        "title": "Global Summit on Climate Change",
+        "description": "Leaders from around the world gather to discuss climate change strategies.",
+        "url": "https://www.cnn.com/news/world/2024/climate-summit",
+        "urlToImage": "https://www.shutterstock.com/image-photo/tv-live-news-program-professional-600nw-2160015507.jpg",
+        "publishedAt": "2024-09-08T09:15:00Z",
+        "content": "The full article content discusses the outcomes and agreements made during the global summit."
+    },
+    {
+        "id": "al-jazeera",
+        "name": "Al Jazeera",
+        "author": "Fatima Ali",
+        "title": "Economic Reforms in the Middle East",
+        "description": "New economic reforms are being implemented across the Middle East.",
+        "url": "https://www.aljazeera.com/news/middleeast/2024/economic-reforms",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3BGF2XG24I6TMFGHUBXEG4F54.jpg&w=1200",
+        "publishedAt": "2024-09-07T18:30:00Z",
+        "content": "The article provides details on the economic changes happening in the Middle East."
+    },
+    {
+        "id": "reuters",
+        "name": "Reuters",
+        "author": "Emily White",
+        "title": "Tech Innovations at Global Expo 2024",
+        "description": "Tech companies showcase their latest innovations at the Global Expo.",
+        "url": "https://www.reuters.com/news/tech/2024/global-expo",
+        "urlToImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIi6-6OfUntOP6QUdOdQ2r6YZanxDwmqfqgdvbehUEVsqIxSAg5wV20mP1ailKY9yUV8&usqp=CAU",
+        "publishedAt": "2024-09-06T14:45:00Z",
+        "content": "Full coverage of the new technology trends unveiled at the Global Expo 2024."
+    },
+    {
+        "id": "the-verge",
+        "name": "The Verge",
+        "author": "Prashanth Singh",
+        "title": "CEO Prashanth Announces New iPhone",
+        "description": "Apple reveals its latest iPhone model with revolutionary features.",
+        "url": "https://www.theverge.com/news/2024/apple-new-iphone",
+        "urlToImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PrjXlLPJLd7AfhD3MAfd8aefvickbKllHw&s",
+        "publishedAt": "2024-09-05T11:00:00Z",
+        "content": "The full content covers the new features of the iPhone and its market impact."
+    },
+    {
+        "id": "fox-news",
+        "name": "Fox News",
+        "author": "Sarah Miller",
+        "title": "Political Debates Heat Up Ahead of Elections",
+        "description": "Political candidates engage in heated debates ahead of the national elections.",
+        "url": "https://www.foxnews.com/news/politics/2024/election-debates",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-68948884,width-400,resizemode-4/68948884.jpg",
+        "publishedAt": "2024-09-04T08:40:00Z",
+        "content": "Full coverage of the latest political debates and their impact on the upcoming elections."
+    }
+]
